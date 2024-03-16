@@ -1,4 +1,4 @@
-# just-the-facts-conky-theme
+# Just The Facts - Conky Theme
 Conky theme focusing on the most relevant operating system metrics
 
 By using anything in this project, you agree that the project is not liable to any damage to your data or systems. 
