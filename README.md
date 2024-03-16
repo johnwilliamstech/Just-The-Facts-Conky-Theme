@@ -5,6 +5,7 @@ By using anything in this project, you agree that the project is not liable to a
 
 <b>To Do List</b>:
 - [ ] Fix link in script and name of Conky
+- [ ] fix the height of the background
 - [ ] refine font and sizes
 - [ ] fix bug where tempurature turns into a heart
 - [ ] add images
